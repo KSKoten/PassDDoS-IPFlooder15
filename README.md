@@ -1,4 +1,4 @@
-git clone https://github.com/KSKoten/PassDDoS-IPFlooder15
+git clone https://github.com/KSKoten/PassDDoS-IPFlooder15.git
 
 cd PassDDoS-IPFlooder15
 
